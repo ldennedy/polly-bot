@@ -1,6 +1,6 @@
 # polly-bot
 
-This project is a chatbot work in progress I'm writing in python. It's a console input/output program, so nothing too complex.
+This project is a chatbot work in progress I'm writing in Python. It's a console input/output program, so nothing too complex.
 
 It's called PollyBot because it responds to you by repeating things you've said to it, kind of like a parrot!
 
